@@ -1,1 +1,1 @@
-这是网站的说明文件
+This is the docu of the website
